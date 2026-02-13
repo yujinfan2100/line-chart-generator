@@ -1,3 +1,5 @@
 fonts-liberation
 fonts-wqy-microhei
 python3-pip
+python3.11-dev
+python3.11-venv
